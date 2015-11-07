@@ -7,7 +7,7 @@ Grunt HTML5 Boilerplate is an HTML5 boilerplate with added [Grunt](http://gruntj
 
 Clone the repo, install node modules and run grunt:
 ```
-git clone https://github.com/tonyspiro/grunt-html5-boilerplate
+git clone https://github.com/darklight3it/grunt-html5-boilerplate
 cd grunt-html5-boilerplate
 npm install
 grunt
