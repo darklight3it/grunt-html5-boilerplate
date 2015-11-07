@@ -120,4 +120,5 @@ Here is what index.html will look like (notice only one css and and one js file 
 ```
 
 Feel free to fork, add / edit the process and send me feedback.<br>
-Find me on twitter [@tonyspiro](http://twitter.com/tonyspiro).
+
+This is a fork of Tony Spyro work [https://github.com/tonyspiro/grunt-html5-boilerplate](https://github.com/tonyspiro/grunt-html5-boilerplate)
